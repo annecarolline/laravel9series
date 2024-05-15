@@ -1,4 +1,4 @@
-<x-layout title="Séries">
+<x-layout title="Séries" breadcrumb0="Séries" breadcrumb1="">
 
     <script type="text/javascript" src="{{ asset('/js/seriesJs/indexTabela.js') }}"></script>
 
